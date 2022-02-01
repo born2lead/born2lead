@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @born2lead
 - 👀 I’m interested in ...Data Analytics and Machine Learning
 - 🌱 I’m currently learning ...SQL, Python, R, Tableu
-- 💞️ I’m looking to collaborate on ... data analytics related projects
+- 💞️ I’m looking to collaborate on ... data analytics and Financial Analytics related projects
 - 📫 How to reach me ...amalrajtrc@gmail.com
 
 <!---
